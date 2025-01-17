@@ -1,0 +1,173 @@
+2025-01-17 00:44:58,547 - ERROR - Error in main function: time data '12.46' does not match format '%H:%M'
+2025-01-17 00:46:43,140 - INFO - Scheduled post time: 2025-01-17 12:48:00
+2025-01-17 00:50:49,457 - INFO - Scheduled post time: 2025-01-17 12:51:00
+2025-01-17 00:59:42,305 - INFO - Scheduled to post at: 2025-01-17 01:01:00
+2025-01-17 00:59:42,305 - INFO - Waiting for 77.694585 seconds until the post time: 2025-01-17 01:01:00
+2025-01-17 01:01:00,195 - ERROR - Error generating content: HTTPSConnectionPool(host='api.groq.ai', port=443): Max retries exceeded with url: /generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001567ACE3560>: Failed to resolve 'api.groq.ai' ([Errno 11001] getaddrinfo failed)"))
+2025-01-17 01:01:01,821 - INFO - Posted to Reddit: Fallback Title
+2025-01-17 01:05:33,467 - INFO - Scheduled to post at: 2025-01-17 01:06:00
+2025-01-17 01:05:33,467 - INFO - Waiting for 26.532008 seconds until the post time: 2025-01-17 01:06:00
+2025-01-17 01:06:00,124 - ERROR - Error generating content: HTTPSConnectionPool(host='api.groq.ai', port=443): Max retries exceeded with url: /generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000019185842510>: Failed to resolve 'api.groq.ai' ([Errno 11001] getaddrinfo failed)"))
+2025-01-17 01:06:01,773 - INFO - Posted to Reddit: Fallback Title
+2025-01-17 01:06:47,370 - INFO - Scheduled to post at: 2025-01-17 01:07:00
+2025-01-17 01:06:47,370 - INFO - Waiting for 12.629286 seconds until the post time: 2025-01-17 01:07:00
+2025-01-17 01:07:00,102 - ERROR - Error generating content: HTTPSConnectionPool(host='api.groq.ai', port=443): Max retries exceeded with url: /generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001F54F665E80>: Failed to resolve 'api.groq.ai' ([Errno 11001] getaddrinfo failed)"))
+2025-01-17 01:07:01,689 - ERROR - Error posting to Reddit: (RedditErrorItem(error_type='SUBMIT_VALIDATION_FLAIR_REQUIRED', message='Your post must contain post flair.', field='flair'), RedditErrorItem(error_type='SUBMIT_VALIDATION_MIN_LENGTH', message='This community requires title to be at least 19 characters', field='title'))
+2025-01-17 01:07:57,899 - INFO - Scheduled to post at: 2025-01-17 01:08:00
+2025-01-17 01:07:57,899 - INFO - Waiting for 2.100272 seconds until the post time: 2025-01-17 01:08:00
+2025-01-17 01:08:00,088 - ERROR - Error generating content: HTTPSConnectionPool(host='api.groq.ai', port=443): Max retries exceeded with url: /generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F7CAA5E80>: Failed to resolve 'api.groq.ai' ([Errno 11001] getaddrinfo failed)"))
+2025-01-17 01:08:01,683 - INFO - Posted to Reddit: Fallback Title
+2025-01-17 01:18:36,140 - INFO - Scheduled to post at: 2025-01-17 01:19:00
+2025-01-17 01:18:36,140 - INFO - Waiting for 23.859346 seconds until the post time: 2025-01-17 01:19:00
+2025-01-17 01:19:00,136 - ERROR - Error generating content: HTTPSConnectionPool(host='api.groq.ai', port=443): Max retries exceeded with url: /generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002C40409A150>: Failed to resolve 'api.groq.ai' ([Errno 11001] getaddrinfo failed)"))
+2025-01-17 01:19:00,136 - ERROR - Error in main function: cannot unpack non-iterable NoneType object
+2025-01-17 01:20:52,680 - INFO - Scheduled to post at: 2025-01-17 01:21:00
+2025-01-17 01:20:52,680 - INFO - Waiting for 7.319973 seconds until the post time: 2025-01-17 01:21:00
+2025-01-17 01:21:00,051 - ERROR - Error generating content: HTTPSConnectionPool(host='api.groq.ai', port=443): Max retries exceeded with url: /generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000205811B25A0>: Failed to resolve 'api.groq.ai' ([Errno 11001] getaddrinfo failed)"))
+2025-01-17 01:21:01,602 - INFO - Posted to Reddit: Fallback Bold Title
+2025-01-17 01:26:40,801 - INFO - Scheduled to post at: 2025-01-17 01:27:00
+2025-01-17 01:26:40,801 - INFO - Waiting for 19.198981 seconds until the post time: 2025-01-17 01:27:00
+2025-01-17 01:26:40,801 - ERROR - Error posting to Reddit: name 'time' is not defined
+2025-01-17 01:28:36,825 - INFO - Scheduled to post at: 2025-01-17 01:29:00
+2025-01-17 01:28:36,825 - INFO - Waiting for 23.174233 seconds until the post time: 2025-01-17 01:29:00
+2025-01-17 01:29:01,047 - ERROR - Error generating content: 401 Client Error: Unauthorized for url: https://api.openai.com/v1/completions
+2025-01-17 01:29:02,692 - INFO - Posted to Reddit: Error Title
+2025-01-17 01:32:06,132 - INFO - Scheduled to post at: 2025-01-17 01:33:00
+2025-01-17 01:32:06,132 - INFO - Waiting for 53.867943 seconds until the post time: 2025-01-17 01:33:00
+2025-01-17 01:33:01,190 - ERROR - Error generating content: 401 Client Error: Unauthorized for url: https://api.openai.com/v1/completions
+2025-01-17 01:33:02,817 - INFO - Posted to Reddit: Hi, I am the text
+2025-01-17 01:40:29,097 - INFO - Scheduled to post at: 2025-01-17 01:41:00
+2025-01-17 01:40:29,097 - INFO - Waiting for 30.902259 seconds until the post time: 2025-01-17 01:41:00
+2025-01-17 01:41:01,443 - ERROR - Error generating content: 404 Client Error: Not Found for url: https://api.openai.com/v1/completions
+2025-01-17 01:41:03,273 - INFO - Posted to Reddit: Hi, I am the text
+2025-01-17 01:43:21,479 - INFO - Scheduled to post at: 2025-01-17 01:44:00
+2025-01-17 01:43:21,479 - INFO - Waiting for 38.520371 seconds until the post time: 2025-01-17 01:44:00
+2025-01-17 01:44:01,045 - ERROR - Error generating content: 401 Client Error: Unauthorized for url: https://api.openai.com/v1/completions
+2025-01-17 01:44:02,684 - INFO - Posted to Reddit: Hi, I am the text
+2025-01-17 01:44:57,569 - INFO - Scheduled to post at: 2025-01-17 01:45:00
+2025-01-17 01:44:57,569 - INFO - Waiting for 2.430547 seconds until the post time: 2025-01-17 01:45:00
+2025-01-17 01:45:00,955 - ERROR - Error generating content: 401 Client Error: Unauthorized for url: https://api.openai.com/v1/completions
+2025-01-17 01:45:02,907 - INFO - Posted to Reddit: Hi, I am the text
+2025-01-17 01:56:11,244 - INFO - Scheduled to post at: 2025-01-17 01:57:00
+2025-01-17 01:56:11,244 - INFO - Waiting for 48.755443 seconds until the post time: 2025-01-17 01:57:00
+2025-01-17 01:57:01,249 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-01-17 01:57:01,249 - INFO - Retrying request to /chat/completions in 0.455748 seconds
+2025-01-17 01:57:02,059 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-01-17 01:57:02,059 - INFO - Retrying request to /chat/completions in 0.851139 seconds
+2025-01-17 01:57:03,289 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-01-17 01:57:03,297 - ERROR - Error generating content: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2025-01-17 01:57:04,931 - INFO - Posted to Reddit: Error Title
+2025-01-17 01:57:12,117 - ERROR - Error in main function: EOF when reading a line
+2025-01-17 08:19:12,647 - ERROR - Error in schedule_posting: time data '2025-01-17 08:20' does not match format '%Y-%m-%d %H:%M:%S'
+2025-01-17 08:24:35,102 - INFO - Waiting for 24.910192 seconds until the scheduled post time.
+2025-01-17 08:25:00,148 - ERROR - Error in generate_content: HTTPSConnectionPool(host='api.groq.ai', port=443): Max retries exceeded with url: /v1/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000021101E5D220>: Failed to resolve 'api.groq.ai' ([Errno 11001] getaddrinfo failed)"))
+2025-01-17 08:25:01,705 - INFO - Posted to Reddit: Error Title
+2025-01-17 08:29:58,777 - ERROR - Error in generate_content: HTTPSConnectionPool(host='api.groq.ai', port=443): Max retries exceeded with url: /v1/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001E207CD7920>: Failed to resolve 'api.groq.ai' ([Errno 11001] getaddrinfo failed)"))
+2025-01-17 08:30:00,329 - INFO - Posted to Reddit: Fallback Bold Title
+2025-01-17 09:15:37,985 - ERROR - Error in schedule_posting: unconverted data remains: :00
+2025-01-17 09:16:49,547 - INFO - Waiting for 10.467911 seconds until the scheduled post time.
+2025-01-17 09:17:00,166 - ERROR - Connection Error: HTTPSConnectionPool(host='api.groq.ai', port=443): Max retries exceeded with url: /v1/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002BF78478770>: Failed to resolve 'api.groq.ai' ([Errno 11001] getaddrinfo failed)"))
+2025-01-17 09:17:01,605 - INFO - Posted to Reddit: Fallback Bold Title
+2025-01-17 09:21:47,654 - INFO - API Request: https://api.groq.com/openai/v1/chat/completions with headers {'Authorization': 'Bearer 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'} and payload {'prompt': 'Generate a bold title and a one-liner summary on the topic of news.', 'max_tokens': 100}
+2025-01-17 09:21:47,654 - INFO - API Response Status Code: 400
+2025-01-17 09:21:47,655 - INFO - API Response Headers: {'Date': 'Fri, 17 Jan 2025 03:51:48 GMT', 'Content-Type': 'application/json', 'Content-Length': '110', 'Connection': 'keep-alive', 'CF-Ray': '9033638bbc2fa911-MAA', 'CF-Cache-Status': 'DYNAMIC', 'Cache-Control': 'private, max-age=0, no-store, no-cache, must-revalidate', 'Vary': 'Origin, Accept-Encoding', 'Via': '1.1 google', 'alt-svc': 'h3=":443"; ma=86400', 'x-groq-region': 'us-west-1', 'x-request-id': 'req_01jhs66wzqeyrtwp5z80xhrk8c', 'Set-Cookie': '__cf_bm=H6lLvbbmvKI1Z4wrLyM0WjeV9HU8Dh.dH.oG28wn11w-1737085908-1.0.1.1-O.uYOD6Rm9MyGk.BP7zn8wpWwkIKACSEiLfZO3AkVfSux8JgUv.OhYp0uk2qLpccWrFpzpXSkeBsfZyEOPvEmQ; path=/; expires=Fri, 17-Jan-25 04:21:48 GMT; domain=.groq.com; HttpOnly; Secure; SameSite=None', 'Server': 'cloudflare'}
+2025-01-17 09:21:47,655 - ERROR - HTTP Error: 400 Client Error: Bad Request for url: https://api.groq.com/openai/v1/chat/completions
+2025-01-17 09:21:49,559 - INFO - Posted to Reddit: Fallback Bold Title
+2025-01-17 09:24:45,007 - INFO - Waiting for 14.993604 seconds until the scheduled post time.
+2025-01-17 09:25:00,114 - ERROR - Connection Error: HTTPSConnectionPool(host='api.groq.ai', port=443): Max retries exceeded with url: /v1/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001F4B2298770>: Failed to resolve 'api.groq.ai' ([Errno 11001] getaddrinfo failed)"))
+2025-01-17 09:25:01,669 - INFO - Posted to Reddit: Fallback Bold Title
+2025-01-17 09:30:00,561 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-01-17 09:30:29,236 - INFO - Waiting for 30.763172 seconds until the scheduled post time.
+2025-01-17 09:31:00,009 - ERROR - Error in schedule_posting: name 'generate_content' is not defined
+ERROR:root:Error in generate_content: The api_key client option must be set either by passing api_key to the client or by setting the GROQ_API_KEY environment variable
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Generated Title: **Unlocking Inner Drive**: Motivation is the spark that ignites the fire within, propelling individuals to pursue their passions and turn their dreams into reality.
+INFO:root:Posted to Reddit: **Unlocking Inner Drive**
+INFO:root:Waiting for 46.824311 seconds until the scheduled post time.
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Generated Title: **Unlocking Inner Drive**: Motivation is the spark that ignites the fire within, propelling you to transform your desires into reality and push beyond the boundaries of what you thought was possible.
+INFO:root:Posted to Reddit: **Unlocking Inner Drive**
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Generated Title: **Breaking News Update**: A major development is unfolding as a major company announces a surprise merger that is sending shockwaves through the business world.
+INFO:root:Posted to Reddit: **Breaking News Update**
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Generated Title: **Title:** "Unlocking Inner Drive"
+**One-liner:** "Motivation is the spark that ignites passion, and with consistent effort, it can become the flame that fuels a lifetime of purpose and achievement."
+INFO:root:Posted to Reddit: **Title
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Generated Title: **Breaking News Updates**: Stay informed with the latest news from around the world, covering current events, politics, and social issues that shape our global community.
+INFO:root:Posted to Reddit: **Breaking News Updates**
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Generated Title: **Unlocking Inner Drive**: Motivation is the spark that ignites the fire within, propelling individuals to strive for excellence and push beyond their perceived limits.
+INFO:root:Posted to Reddit: **Unlocking Inner Drive**
+INFO:root:Waiting for 32.620571 seconds until the scheduled post time.
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Generated Title: **Achieving Greatness**: Success is not just about reaching the top, but about the courage, perseverance, and dedication it takes to stay there and continue climbing.
+INFO:root:Posted to Reddit: **Achieving Greatness**
+INFO:root:Waiting for 33.085156 seconds until the scheduled post time.
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Generated Title: **Thriving in the Modern Market**
+To succeed in today's fast-paced business landscape, companies must be adaptable, innovative, and willing to take calculated risks to stay ahead of the competition.
+INFO:root:Posted to Reddit: Fallback Bold Title
+INFO:root:Waiting for 5.208133 seconds until the scheduled post time.
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Generated Title: **Thriving in a Competitive Market**
+A successful business is built on a foundation of innovative thinking, strategic planning, and a relentless pursuit of excellence in every aspect of its operations.
+INFO:root:Posted to Reddit: Fallback Bold Title
+INFO:root:Waiting for 19.676506 seconds until the scheduled post time.
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Generated Title: **Achieving Greatness**
+Success is not just about reaching your goals, but about the person you become and the lessons you learn along the way to get there.
+INFO:root:Posted to Reddit: Fallback Bold Title
+INFO:root:Waiting for 27.337605 seconds until the scheduled post time.
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Generated Title: **The Future of Innovation**: Technology is revolutionizing the world at an unprecedented pace, transforming the way we live, work, and interact with one another forever.
+INFO:root:Posted to Reddit: **The Future of Innovation**
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Generated Title: **Effective Leadership**
+A true leader empowers their team to achieve greatness, not by dictating what to do, but by inspiring them to believe in their own potential.
+INFO:root:Posted to Reddit: Fallback Bold Title
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Generated Title: **Empowering Innovation**: Entrepreneurship is the spark that ignites creativity, fuels passion, and drives individuals to turn their vision into a reality, shaping the future of business and beyond.
+INFO:root:Posted to Reddit: Empowering Innovation
+INFO:root:Waiting for 12.323415 seconds until the scheduled post time.
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Generated Title: **Revolutionizing Intelligence: Artificially**: AI is transforming industries and redefining the future by enabling machines to learn, adapt, and make decisions at unprecedented speeds and scales.
+INFO:root:Posted to Reddit: Revolutionizing Intelligence
+INFO:root:Waiting for 29.697419 seconds until the scheduled post time.
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Generated Title: **Unlocking Inner Drive**: Motivation is the spark that ignites the fire within, propelling individuals to strive for excellence and push beyond their perceived limits.
+INFO:root:Posted to Reddit: Unlocking Inner Drive
+INFO:root:Waiting for 33.116914 seconds until the scheduled post time.
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Generated Title: **The Future of Innovation**: Technology is revolutionizing the world at an unprecedented pace, transforming the way we live, work, and interact with one another.
+INFO:root:Posted to Reddit: The Future of Innovation
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Generated Title: **Maximizing Productivity**
+By prioritizing tasks, managing time, and minimizing distractions, you can significantly boost your productivity and achieve your goals more efficiently.
+INFO:root:Posted to Reddit: Fallback Bold Title
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Generated Title: **Effective Leadership**: A true leader inspires and empowers others to reach their full potential, fostering a culture of trust, innovation, and collective success.
+INFO:root:Posted to Reddit: Effective Leadership
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Generated Title: **Breaking News Update**: A major development is unfolding as a significant story is emerging, captivating the attention of people worldwide with its shocking revelations and far-reaching implications.
+INFO:root:Posted to Reddit: Breaking News Update
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Generated Title: **Unlocking Inner Drive**: Motivation is the spark that ignites the fire within, propelling you to push beyond your limits and achieve greatness.
+INFO:root:Posted to Reddit: Unlocking Inner Drive
+INFO:root:Waiting for 9.014891 seconds until the scheduled post time.
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Generated Title: **Empowering Innovation**: Entrepreneurship is the catalyst that transforms visionary ideas into reality, fostering growth, innovation, and success through calculated risk-taking and unwavering determination.
+INFO:root:Posted to Reddit: Empowering Innovation
+INFO:root:Waiting for 8.67949 seconds until the scheduled post time.
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Generated Title: **Effective Leadership**: A true leader inspires and empowers others to reach their full potential, fostering a culture of collaboration, innovation, and collective success.
+INFO:root:Posted to Reddit: Effective Leadership
+INFO:root:Waiting for 45.93122 seconds until the scheduled post time.
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Generated Title: **Building a Successful Enterprise**: A well-planned business strategy, combined with innovative thinking and effective leadership, is the key to unlocking long-term growth and profitability in today's competitive market.
+INFO:root:Posted to Reddit: Building a Successful Enterprise
+INFO:root:Waiting for 22.120342 seconds until the scheduled post time.
+INFO:httpx:HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Generated Title: **The AI Revolution**: As artificial intelligence continues to advance at an unprecedented rate, it is transforming the world by automating tasks, enhancing decision-making, and redefining the future of human innovation.
+INFO:root:Posted to Reddit: The AI Revolution
